@@ -24,4 +24,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# Note: Replace the API key with your own API key.
+Note: Replace the API key with your own API key.
