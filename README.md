@@ -12,11 +12,14 @@ made by rzfan03 with <a href="https://openrouter.ai/">openrouter.ai<a>
 how to install and usage
 
 ```javascript
-git clone 
+git clone https://github.com/Rzfan03/DeepSeek-Term.git
 ```
 ```javascript
-npm install whatsapp-web.js qrcode-terminal puppeteer
+cd DeepSeek-Term
 ```
 ```javascript
-node bot.js
+pip install -r requirements.txt
+```
+```javascript
+python main.py
 ```
