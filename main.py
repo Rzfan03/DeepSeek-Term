@@ -10,7 +10,7 @@ print("my github : https://github.com/Rzfan03")
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="GANTI DENGAN API MU",
 )
 
 
