@@ -3,7 +3,7 @@
 # DeepSeek Term
 
 Run deepseek in your terminal!
-made by rzfan03 with <a href="https://openrouter.ai/" target=_blank >openrouter.ai<a>
+made by rzfan03 with <a href="https://openrouter.ai/" target="_blank" >openrouter.ai<a>
 
 
 
