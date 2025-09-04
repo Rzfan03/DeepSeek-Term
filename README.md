@@ -23,3 +23,5 @@ pip install -r requirements.txt
 ```javascript
 python main.py
 ```
+
+# Note: Replace the API key with your own API key.
